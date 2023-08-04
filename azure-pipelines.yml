@@ -1,7 +1,4 @@
 # Node.js React Web App to Linux on Azure
-- task: NodeTool@0
-  inputs:
-    versionSource: 'fromFile'
 # Build a Node.js React app and deploy it to Azure as a Linux web app.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
